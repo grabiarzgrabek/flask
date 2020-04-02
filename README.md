@@ -1,2 +1,2 @@
 # flask
-Aplikacja WWW Flask
+Quiz Flask
